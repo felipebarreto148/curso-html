@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/felipebarreto148/curso-html/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/felipebarreto148/curso-html/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<! DOCTYPE html>
+< html  lang = " pt-br " >
+< cabeça >
+< title > Currículo Felipe Barreto </ title >
+    < link  href = " curriculo.css "  tipo = " texto / css "  rel = " folha de estilo " >
+</ head >
+    
+< body >
+    < h1 > Felipe de Aquino Barreto </ h1 >
+    
+< h2 > Informações Pessoais </ h2 >
+    < ul >
+    < li > Brasileiro, 18 anos </ li >    
+    < li > Endereço: Travessa Aquim, 17 - Cidade de Deus </ li >
+    < li > Telefone: (21) 99479-6226 / (21) 2443-2291 </ li >
+    < li > E-mail: felipebarreto148@gmail.com </ li >
+    </ ul >
+    
+< h2 > Formação Acadêmica </ h2 >
+    < ul >
+    < li > Ensino médio regular - completo. </ li >
+    < li > Graduação em Sistema de Informação. < Br > < a  href = " https://www.uva.br/ "  alvo = " _blank " > Universidade Veiga de Almeida (UVA) </ a > - 2019 (em curso) </ li >    
+    </ ul >
+    
+< h2 > Objetivo </ h2 >  
+    < p  class = " alerta " > Estágio na área de programação, informática. </ p >
+    
+    
+< h2 > Qualificações Pessoais </ h2 >
+    < ul >
+    < li > Espírito de equipe. </ li >
+    < li > Comprometimento e Dinâmismo. </ li >
+    < li > Dedicação aos estudos. </ li >
+    < li > Motivação por novos desafios. </ li >
+    </ ul >
+    
+< h2 > Conhecimentos </ h2 >
+    < ul >
+    < li > Inglês Básico. </ li >
+    < li > Espanhol Básico. </ li >
+    < li > Escritório de pacotes. </ li >
+    < li > Programação em C. </ li >
+    < li > HTML5. </ li >    
+    </ ul >    
+</ body >
+</ html >
