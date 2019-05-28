@@ -10,18 +10,18 @@ text-align: center;
 p.imagem{text-align: center;}
 
 h2{color: white;
-    border-left: 10px solid;
+border-left: 10px solid;
 border-left-color: chartreuse}
 
 li{color: white;
     margin: 5px;
 font-size: 17px;
 padding: 3px;
-font-family: cursive}
+font-family: arial}
 
 p.alerta{color: white;
     font-size: 18px;
-font-family: cursive;
+font-family: arial;
 padding: 5px;}
 
 a:link{color: green;}
